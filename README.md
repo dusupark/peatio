@@ -1,11 +1,11 @@
 An open-source crypto currency exchange
 =====================================
 
-**I'LL BE BACK**
+**Under Construction**
 
-[![Code Climate](https://codeclimate.com/github/peatio/peatio.png)](https://codeclimate.com/github/peatio/peatio)
-[![Build Status](https://travis-ci.org/peatio/peatio.png?branch=master)](https://travis-ci.org/peatio/peatio)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/peatio/peatio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Code Climate](https://codeclimate.com/github/peatio/peatio.png)](https://codeclimate.com/github/dusupark/peatio)
+[![Build Status](https://travis-ci.org/peatio/peatio.png?branch=master)](https://travis-ci.org/dusupark/peatio)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dusupark/peatio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Peatio is a free and open-source crypto currency exchange implementation with the Rails framework and other cutting-edge technology.
 
@@ -19,7 +19,7 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 ### Things You Should Know ###
 
-RUNNING A EXCHANGE IS HARD.
+RUNNING AN EXCHANGE IS HARD.
 
 Peatio makes it easier, but running an exchange is still harder than a blog, which you can download the source code and following the guide or even a cool installer and boom!!! a fancy site is there to profit. We always prioritize security and speed higher than 1-click setup. We split Peatio to many components (processes) so it's flexible to deploy and scalable.
 
@@ -51,19 +51,11 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 * Industry standard security out of box.
 * Active community behind.
 * Free and open-source.
-* Created and maintained by [Peatio open-source group](http://peat.io).
 
 
-### Known Exchanges using Peatio
+### Known Exchanges using Dusu Park's Peatio
 
-* [Yunbi Exchange](https://yunbi.com) - A crypto-currency exchange funded by BitFundPE
-* [One World Coin](https://oneworldcoin.com)
-* [Bitspark](https://bitspark.io) - Bitcoin Exchange in Hong Kong
-* [MarsX.io](https://acx.io) - Australian Cryptocurrency Exchange
-
-### Mobile Apps ###
-
-* [Boilr](https://github.com/andrefbsantos/boilr) - Cryptocurrency and bullion price alarms for Android
+* [Ninemonster](https://bit.ninemonster.com)
 
 ### Requirements
 
@@ -86,10 +78,10 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 
 ### API
 
-You can interact with Peatio through API:
+You can interact with Dusu Park's Peatio through API:
 
-* [API v2](http://demo.peat.io/documents/api_v2?lang=en)
-* [Websocket API](http://demo.peat.io/documents/websocket_api)
+* [API v2](https://bit.ninemonster.com/documents/api_v2?lang=en)
+* [Websocket API](https://bit.ninemonster.com/documents/websocket_api)
 
 Here're some API clients and/or wrappers:
 
@@ -116,10 +108,10 @@ Peatio front-end based Bootstrap 3.0 version and Sass, and you can custom exchan
 
 Want to report a bug, request a feature, contribute or translate Peatio?
 
-* Browse our [issues](https://github.com/peatio/peatio/issues), comment on proposals, report bugs.
+* Browse our [issues](https://github.com/dusupark/peatio/issues), comment on proposals, report bugs.
 * Clone the peatio repo, make some changes according to our development guidelines and issue a pull-request with your changes.
-* Anything you want to tell us please send it to [community@peatio.com](mailto:community@peatio.com)
-* If you need technical support or customization service, contact us: [sales@peatio.com](mailto:sales@peatio.com)
+* Anything you want to tell us please send it to [dusupark@ninemonster.com](mailto:dusupark@ninemonster.com)
+* If you need technical support or customization service, contact us: [dusupark@ninemonster.com](mailto:dusupark@ninemonster.com)
 
 
 ### License
