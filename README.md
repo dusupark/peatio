@@ -1,4 +1,4 @@
-An open-source crypto currency exchange
+An open-source crypto-currency exchange
 =====================================
 
 **Under Construction**
@@ -7,12 +7,12 @@ An open-source crypto currency exchange
 [![Build Status](https://travis-ci.org/peatio/peatio.png?branch=master)](https://travis-ci.org/dusupark/peatio)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dusupark/peatio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Peatio is a free and open-source crypto currency exchange implementation with the Rails framework and other cutting-edge technology.
+Dusu Park's Peatio is an open-source crypto-currency exchange implemented with Ruby on Rails and other cutting-edge technologies.
 
 
 ### Mission
 
-Our mission is to build the world best open-source crypto currency exchange with a high performance trading engine and safety which can be trusted and enjoyed by users. Additionally we want to move the crypto currency exchange technology forward by providing support and add new features. We are helping people to build easy their own exchange around the world.
+Our mission is to build the world best open-source crypto-currency exchange with a high performance trading engine and safety which can be trusted and enjoyed by users. Additionally we want to move the crypto-currency exchange technology forward by providing support and add new features. We help people to build easily their own exchanges around the world.
 
 Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
@@ -21,15 +21,15 @@ Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
 RUNNING AN EXCHANGE IS HARD.
 
-Peatio makes it easier, but running an exchange is still harder than a blog, which you can download the source code and following the guide or even a cool installer and boom!!! a fancy site is there to profit. We always prioritize security and speed higher than 1-click setup. We split Peatio to many components (processes) so it's flexible to deploy and scalable.
+Dusu Park's Peatio makes it easier, but running an exchange is still harder than a blog, which you can download the source code and following the guide or even a cool installer and boom!!! a fancy site is there to profit. We always prioritize security and speed higher than 1-click setup. We split Peatio to many components (processes) so it's flexible to deploy and scalable.
 
 SECURITY KNOWLEDGE IS A REQUIREMENT.
 
-Peatio cannot protect your customers when you leave your admin password 1234567, or open sensitive ports to public internet. No one can. Running an exchange is a very risky task because you're dealing with money directly. If you don't known how to make your exchange secure, hire an expert.
+Dusu Park's Peatio cannot protect your customers when you leave your admin password 1234567, or open sensitive ports to public internet. No one can. Running an exchange is a very risky task because you're dealing with money directly. If you don't known how to make your exchange secure, hire an expert.
 
 You must know what you're doing, there's no shortcut. Please get prepared before continue:
 
-* Rails knowledge
+* Ruby on Rails knowledge
 * Security knowledge
 * System administration
 
@@ -41,10 +41,10 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 * Built-in [Proof of Solvency](https://iwilcox.me.uk/2014/proving-bitcoin-reserves) Audit.
 * Built-in ticket system for customer support.
 * Usability and scalibility.
-* Websocket API and high frequency trading support.
+* WebSocket API and high frequency trading support.
 * Support multiple digital currencies (eg. Bitcoin, Litecoin, Dogecoin etc.).
 * Easy customization of payment processing for both fiat and digital currencies.
-* SMS and Google Two-Factor authenticaton.
+* SMS and Google Two-Factor authentication.
 * [KYC Verification](http://en.wikipedia.org/wiki/Know_your_customer).
 * Powerful admin dashboard and management tools.
 * Highly configurable and extendable.
@@ -92,7 +92,7 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 You can interact with Dusu Park's Peatio through API:
 
 * [API v2](https://bit.ninemonster.com/documents/api_v2?lang=en)
-* [Websocket API](https://bit.ninemonster.com/documents/websocket_api)
+* [WebSocket API](https://bit.ninemonster.com/documents/websocket_api)
 
 Here're some API clients and/or wrappers:
 
