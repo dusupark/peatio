@@ -1,4 +1,4 @@
-An open-source crypto-currency exchange
+An open-source cryptocurrency exchange
 =====================================
 
 **Under Construction**
@@ -7,12 +7,12 @@ An open-source crypto-currency exchange
 [![Build Status](https://travis-ci.org/peatio/peatio.png?branch=master)](https://travis-ci.org/dusupark/peatio)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dusupark/peatio?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Dusu Park's Peatio is an open-source crypto-currency exchange implemented with Ruby on Rails and other cutting-edge technologies.
+Dusu Park's Peatio is an open-source cryptocurrency exchange implemented with Ruby on Rails and other cutting-edge technologies.
 
 
 ### Mission
 
-Our mission is to build the world best open-source crypto-currency exchange with a high performance trading engine and safety which can be trusted and enjoyed by users. Additionally we want to move the crypto-currency exchange technology forward by providing support and add new features. We help people to build easily their own exchanges around the world.
+Our mission is to build the world best open-source cryptocurrency exchange with a high performance trading engine and safety which can be trusted and enjoyed by users. Additionally we want to move the cryptocurrency exchange technology forward by providing support and add new features. We help people to build easily their own exchanges around the world.
 
 Help is greatly appreciated, feel free to submit pull-requests or open issues.
 
@@ -25,7 +25,7 @@ Dusu Park's Peatio makes it easier, but running an exchange is still harder than
 
 SECURITY KNOWLEDGE IS A REQUIREMENT.
 
-Dusu Park's Peatio cannot protect your customers when you leave your admin password 1234567, or open sensitive ports to public internet. No one can. Running an exchange is a very risky task because you're dealing with money directly. If you don't known how to make your exchange secure, hire an expert.
+Dusu Park's Peatio cannot protect your customers when you leave your admin password 1234567, or open sensitive ports to public internet. No one can. Running an exchange is a very risky task because you're dealing with money directly. If you don't known how to make your exchange secure, hire an expert.c
 
 You must know what you're doing, there's no shortcut. Please get prepared before continue:
 
@@ -36,7 +36,7 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 
 ### Features
 
-* Designed as high performance crypto currency exchange.
+* Designed as high performance cryptocurrency exchange.
 * Built-in high performance matching-engine.
 * Built-in [Proof of Solvency](https://iwilcox.me.uk/2014/proving-bitcoin-reserves) Audit.
 * Built-in ticket system for customer support.
@@ -96,11 +96,11 @@ You can interact with Dusu Park's Peatio through API:
 
 Here're some API clients and/or wrappers:
 
-* [peatio-client-ruby](https://github.com/peatio/peatio-client-ruby) is the official ruby client of both HTTP/Websocket API.
-* [peatio-client-python by JohnnyZhao](https://github.com/JohnnyZhao/peatio-client-python) is a python client written by JohnnyZhao.
-* [peatio-client-python by czheo](https://github.com/JohnnyZhao/peatio-client-python) is a python wrapper similar to peatio-client-ruby written by czheo.
-* [peatioJavaClient](https://github.com/classic1999/peatioJavaClient.git) is a java client written by classic1999.
-* [yunbi-client-php](https://github.com/panlilu/yunbi-client-php) is a php client written by panlilu.
+* [peatio-client-ruby](https://github.com/peatio/peatio-client-ruby) is the official Ruby client of both HTTP/WebSocket API.
+* [peatio-client-python by JohnnyZhao](https://github.com/JohnnyZhao/peatio-client-python) is a Python client written by JohnnyZhao.
+* [peatio-client-python by czheo](https://github.com/JohnnyZhao/peatio-client-python) is a Python wrapper similar to peatio-client-ruby written by czheo.
+* [peatioJavaClient](https://github.com/classic1999/peatioJavaClient.git) is a Java client written by classic1999.
+* [yunbi-client-php](https://github.com/panlilu/yunbi-client-php) is a PHP client written by panlilu.
 
 ### Custom Style
 
