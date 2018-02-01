@@ -64,12 +64,13 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 * Ruby on Rails 4.0+
 * Git 1.7.10+
 * Redis 2.0+
+* [nginx](https://nginx.org/)
 * MySQL
 * RabbitMQ
 * HTML5
 * YAML
 * [Slim - A Fast, Lightweight Template Engine for Ruby](http://slim-lang.com/)
-* ERB
+* eRuby
 * CSS
 * SCSS
 * JavaScript
