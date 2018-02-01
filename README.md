@@ -68,7 +68,7 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 * MySQL
 * RabbitMQ
 * HTML5
-* YAML
+* [YAML](http://yaml.org/)
 * [Slim - A Fast, Lightweight Template Engine for Ruby](http://slim-lang.com/)
 * eRuby
 * CSS
