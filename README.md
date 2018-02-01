@@ -59,13 +59,23 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 
 ### Requirements
 
-* Linux / Mac OSX
-* Ruby 2.1.0
-* Rails 4.0+
+* Linux / macOS X
+* Ruby 2.1.0+
+* Ruby on Rails 4.0+
 * Git 1.7.10+
 * Redis 2.0+
 * MySQL
 * RabbitMQ
+* HTML5
+* YAML
+* [Slim - A Fast, Lightweight Template Engine for Ruby](http://slim-lang.com/)
+* ERB
+* CSS
+* SCSS
+* JavaScript
+* [CoffeeScript](http://coffeescript.org/)
+* [AngularJS — Superheroic JavaScript MVW Framework](https://angularjs.org/)
+* Node.js
 
 ** More details are in the [doc](doc).
 
