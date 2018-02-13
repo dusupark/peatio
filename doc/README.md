@@ -16,7 +16,7 @@ Peatio is developed for Mac and Linux operating system, Ubuntu 14.04 LTS is reco
 
 ## Officially supports
 
-* Ubuntu Linux 14.04 LTS
+* Ubuntu 14.04 LTS
 * Mac OS X Mavericks
 
 ## Ruby versions
@@ -45,7 +45,7 @@ If you run bitcoind at local, the necessary hard drive space largely depends on 
 * Chrome (Latest stable version)
 * Firefox (Latest released version)
 * Safari (Latest released version)
-* IE 10+
+* Internet Explorer 10+
 
 ## Development Dependencies
 
@@ -55,4 +55,4 @@ If you run bitcoind at local, the necessary hard drive space largely depends on 
 
 ## Support
 
-Any Questions: [community@peatio.com](mailto:community@peatio.com)
+Any Questions: [dusupark@ninemonster.com](mailto:dusupark@ninemonster.com)
