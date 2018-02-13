@@ -1,4 +1,4 @@
-Deploy production server on Ubuntu 14.04
+Installing on Ubuntu 14.04 LTS
 -------------------------------------
 
 ### Overview
@@ -14,23 +14,23 @@ Deploy production server on Ubuntu 14.04
 9. Install ImageMagick
 10. Configure Peatio
 
-### 1. Setup deploy user
+### 1. Setup the user deploy.
 
-Create (if it doesn’t exist) deploy user, and assign it to the sudo group:
+Create the user deploy if it doesn’t exist, and assign it to the sudo group:
 
     sudo adduser deploy
     sudo usermod -a -G sudo deploy
 
-Re-login as deploy user
+Re-login as deploy.
 
-### 2. Install Ruby
+### 2. Install Ruby.
 
 Make sure your system is up-to-date.
 
     sudo apt-get update
     sudo apt-get upgrade
 
-Installing [rbenv](https://github.com/sstephenson/rbenv) using a Installer
+Install [rbenv](https://github.com/sstephenson/rbenv) using a Installer
 
     sudo apt-get install git-core curl zlib1g-dev build-essential \
                          libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 \
@@ -52,17 +52,17 @@ Install Ruby through rbenv:
     rbenv install 2.2.1
     rbenv global 2.2.1
 
-Install bundler
+Install bundler:
 
     echo "gem: --no-ri --no-rdoc" > ~/.gemrc
     gem install bundler
     rbenv rehash
 
-### 3. Install MySQL
+### 3. Install MySQL.
 
     sudo apt-get install mysql-server  mysql-client  libmysqlclient-dev
 
-### 4. Install Redis
+### 4. Install Redis.
 
 Be sure to install the latest stable Redis, as the package in the distro may be a bit old:
 
@@ -70,7 +70,7 @@ Be sure to install the latest stable Redis, as the package in the distro may be 
     sudo apt-get update
     sudo apt-get install redis-server
 
-### 5. Install RabbitMQ
+### 5. Install RabbitMQ.
 
 Please follow instructions here: https://www.rabbitmq.com/install-debian.html
 
@@ -85,13 +85,13 @@ Please follow instructions here: https://www.rabbitmq.com/install-debian.html
     chmod +x rabbitmqadmin
     sudo mv rabbitmqadmin /usr/local/sbin
 
-### 6. Install Bitcoind
+### 6. Install Bitcoin Core.
 
     sudo add-apt-repository ppa:bitcoin/bitcoin
     sudo apt-get update
     sudo apt-get install bitcoind
 
-**Configure**
+Configure Bitcoin Core:
 
     mkdir -p ~/.bitcoin
     touch ~/.bitcoin/bitcoin.conf
@@ -172,7 +172,7 @@ A JavaScript Runtime is needed for Asset Pipeline to work. Any runtime will do b
 ##### Clone the Source
 
     mkdir -p ~/peatio
-    git clone git://github.com/peatio/peatio.git ~/peatio/current
+    git clone git://github.com/dusupark/peatio.git ~/peatio/current
     cd peatio/current
 
     ＃ Install dependency gems
