@@ -86,7 +86,7 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 * [Setup on Mac OS X](doc/setup-local-osx.md)
 * [Setup on Ubuntu](doc/setup-local-ubuntu.md)
 * [Deploy production server](doc/deploy-production-server.md)
-
+* [Adding a new cryptocurrency](doc/add-new-cryptocurrency.md)
 ### APIs
 
 You can interact with Dusu Park's Peatio through APIs:
